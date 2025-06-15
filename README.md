@@ -2,9 +2,9 @@
 
 A simple cross-platform Todo app built with Flutter and Firebase.
 
-![Home Screen](assets/images/Home.jpg)
-![Sign In Screen](assets/images/Signin.jpg)
-![Sign Up Screen](assets/images/Signup.jpg)
+<img src="assets/images/Home.jpg" alt="Home Screen" width="300"/>
+<img src="assets/images/Signin.jpg" alt="Sign In Screen" width="300"/>
+<img src="assets/images/Signup.jpg" alt="Sign Up Screen" width="300"/>
 
 ## Features
 
@@ -16,7 +16,7 @@ A simple cross-platform Todo app built with Flutter and Firebase.
 
 ## Getting Started
 
-3. **Set up Firebase:**
+ **Set up Firebase:**
    - Create a new Firebase project.
    - Add your app to the Firebase project.
    - Download the `google-services.json` and `GoogleService-Info.plist` files and place them in the respective directories:

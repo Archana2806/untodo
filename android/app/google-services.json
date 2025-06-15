@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868258651151",
+    "project_id": "unb-todo",
+    "storage_bucket": "unb-todo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868258651151:android:946054a224479c768a977a",
+        "android_client_info": {
+          "package_name": "com.example.un_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI3cnVkbduZNYMrEL9d_DML6s2lH0tCh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
